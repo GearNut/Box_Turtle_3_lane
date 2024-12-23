@@ -4,6 +4,8 @@ Home for my 3 lane BT files.
 
 Front Skirts are based on the LED front skirts from Makermylo 
 
+https://github.com/MakerMylo/BoxTurtle_Logo_Skirts
+
 ![Alt text of the image](https://github.com/GearNut/Box_Turtle_3_lane/blob/main/images/3laneBTrear.png)
 
 Rear skirts have been shortened into one peice with a new 3 lane hub
